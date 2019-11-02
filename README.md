@@ -1,2 +1,2 @@
-# game_projects
-takes on different types of games and its concept
+# snake_game
+an overall outlook on the classic snake game and its concept
